@@ -35,8 +35,8 @@ I’d love to team up on:
 ---
 
 ### 📫 Connect With Me
-- ✉️ Email: [your.email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- ✉️ Email: [v-kumashiva@microsoft.com]
+- 💼 LinkedIn: [linkedin.com/in/kumarshivam2s](https://linkedin.com/in/kumarshivam2s)
 
 ---
 
